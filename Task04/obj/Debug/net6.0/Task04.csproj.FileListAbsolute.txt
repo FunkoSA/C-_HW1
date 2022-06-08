@@ -1,0 +1,15 @@
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/bin/Debug/net6.0/Task04
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/bin/Debug/net6.0/Task04.deps.json
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/bin/Debug/net6.0/Task04.runtimeconfig.json
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/bin/Debug/net6.0/Task04.dll
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/bin/Debug/net6.0/Task04.pdb
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.csproj.AssemblyReference.cache
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.GeneratedMSBuildEditorConfig.editorconfig
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.AssemblyInfoInputs.cache
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.AssemblyInfo.cs
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.csproj.CoreCompileInputs.cache
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.dll
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/refint/Task04.dll
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.pdb
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/Task04.genruntimeconfig.cache
+/home/hobot/Загрузки/geek/Learning_coding_C#/DZ_C#_SEM1/Task04/obj/Debug/net6.0/ref/Task04.dll
